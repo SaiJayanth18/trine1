@@ -2,6 +2,7 @@ body
 {
     background-color:#755eb5;
     color: white;
+    text-align: center;
 }
 h1
 {
@@ -15,11 +16,11 @@ hr {
     border-width: 5px;
     width: 15%;
 }
-.inputs
-{
-    background-color: white;
-}
 img
 {
     height: 250px;
+}
+.inputs{
+    text-align: center;
+    margin-left: 30px;
 }
